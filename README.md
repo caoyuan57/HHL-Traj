@@ -64,5 +64,5 @@ python Validation.py
 python Test.py
 ```
 
-## result
+## Result
 The model will be saved in the saved_model and the result will be saved in the same level folder as test.py.
