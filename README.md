@@ -3,8 +3,6 @@ Code of ''Hypergraph Hash Learning for Efficient Trajectory Similarity Computati
 
 This is a PyTorch implementation of HHL-traj.
 
-Author list: Lei Li, Yuan Cao, Xiangru Chen, Xue Xu, Zuojin Huang and Yanwei Yu	
-
 ## Overview
 We provide an example to run our method on the porto/Beijing dataset.
 
